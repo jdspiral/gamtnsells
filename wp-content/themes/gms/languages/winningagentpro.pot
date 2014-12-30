@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Winning Agent Pro Theme\n"
+"POT-Creation-Date: 2014-02-06 11:29-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:68
+msgid "Winning Agent Pro Blue/Green"
+msgstr ""
+
+#: functions.php:69
+msgid "Winning Agent Pro Gold/Black"
+msgstr ""
+
+#: functions.php:70
+msgid "Winning Agent Pro Red/Gray"
+msgstr ""
+
+#: functions.php:71
+msgid "Winning Agent Pro White/Orange"
+msgstr ""
+
+#: functions.php:75
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: functions.php:110
+msgid "Search Bar"
+msgstr ""
+
+#: functions.php:111
+msgid "This is the search bar under the header."
+msgstr ""
+
+#: functions.php:115
+msgid "Home Featured 1"
+msgstr ""
+
+#: functions.php:116
+msgid "This is the 1st featured section in the middle of the home page."
+msgstr ""
+
+#: functions.php:120
+msgid "Home Featured 2"
+msgstr ""
+
+#: functions.php:121
+msgid "This is the 2nd featured section in the middle of the home page."
+msgstr ""
+
+#: functions.php:125
+msgid "Home Featured 3"
+msgstr ""
+
+#: functions.php:126
+msgid "This is the 3rd featured section in the middle of the home page."
+msgstr ""
+
+#: functions.php:130
+msgid "Home Listings"
+msgstr ""
+
+#: functions.php:131
+msgid "This is the listings section in the middle of the home page."
+msgstr ""
+
+#: functions.php:135
+msgid "Home Communities"
+msgstr ""
+
+#: functions.php:136
+msgid "This is the communities section at the bottom of the home page."
+msgstr ""
+
+#: lib/post-types.php:17 lib/post-types.php:18
+msgid "Community"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:44
+msgid "Displays featured communities with thumbnails"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:53
+msgid "Featured Communities"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:192
+#: lib/widgets/featured-community-widget.php:210
+msgid "Title"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:197
+msgid "Number of Posts to Show"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:202
+msgid "Number of Posts to Offset"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:207
+msgid "Order By"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:209
+msgid "Date"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:211
+msgid "Parent"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:212
+msgid "ID"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:213
+msgid "Comment Count"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:214
+msgid "Random"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:219
+msgid "Sort Order"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:221
+msgid "Descending (3, 2, 1)"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:222
+msgid "Ascending (1, 2, 3)"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:230
+msgid "Show Featured Image"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:234
+msgid "Image Size"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:249
+msgid "Show Post Title"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:253
+msgid "Content Type"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:255
+msgid "Show Content"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:256
+msgid "Show Excerpt"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:257
+msgid "Show Content Limit"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:258
+msgid "No Content"
+msgstr ""
+
+#: lib/widgets/featured-community-widget.php:261
+msgid "Limit content to"
+msgstr ""
